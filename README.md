@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZutiNeX
-- 👀 I’m interested in ...Python Programming
-- 🌱 I’m currently learning ...HTML, CSS, JAVASCRIPT
+- 👀 I’m interested in ...Web Development 
+- 🌱 I’m currently learning ...MongoDB,ExpressJs,ReactJs,NodeJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
