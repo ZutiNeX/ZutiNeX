@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZutiNeX
-- 👀 I’m interested in ...Web Development 
-- 🌱 I’m currently learning ...MongoDB,ExpressJs,ReactJs,NodeJs
+- 👀 I’m interested in ...Machine Learning and Artificial Intelligence 
+- 🌱 I’m currently learning ...Deep Learning(Tensorflow)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
